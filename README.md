@@ -1,2 +1,3 @@
-# prediction-market-assistant
-prediction market assistant using kalshi API and perplexity sonar api
+# Prediction Market Assistant
+
+Prediction market assistant using the Kalshi API and Perplexity Sonar API
